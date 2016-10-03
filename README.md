@@ -1,6 +1,9 @@
 ## Introduction
 
-This assignment uses data from!!!
+### By Harrison Hassig
+### Week 1, Exploratory Data Analysis -- Coursera
+
+This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
 datasets. In particular, we will be using the "Individual household
